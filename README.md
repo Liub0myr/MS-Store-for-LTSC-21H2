@@ -8,3 +8,6 @@ Installs a Microsoft Store and fixes:
 Click on the green Code button, then Download ZIP.<br>
 Unzip to a convenient folder for you and run setup.bat.<br>
 Administrator privileges are <b>not</b> required.
+
+# Microsoft Store for Windows 11 LTSC
+Just use wsreset -i in PowerShell
